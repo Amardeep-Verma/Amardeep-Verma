@@ -84,7 +84,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6ga8xsvk93qay9cazge2ag4j4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+ 
 
 <br/>  
 
