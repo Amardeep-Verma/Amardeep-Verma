@@ -76,6 +76,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amardeep-Verma&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amardeep-Verma&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amardeep-Verma&theme=2077" height="180em" />
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amardeep-Verma&" alt="Amardeep-Verma" /></p>
 </div>
 
 <br/>  
