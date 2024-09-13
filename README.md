@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on C# (https://github.com/Amardeep-Verma/Csharp-coding-challenge)  
   
 
-- 🌱 I’m currently learning JavaScript and C#  
+- 🌱 I’m currently learning Data Structure And Algorithms
   
 
 - ❓ Ask me about anything related to C and Web Dev.  
