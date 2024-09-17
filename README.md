@@ -54,7 +54,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amar_x_vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amar_x_vr" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/amardeep-verma-227663219](https://www.linkedin.com/in/amardeep86/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amardeep-verma-227663219" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amardeep86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amardeep-verma-227663219" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22313306/amardeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22313306/amardeep" height="30" width="40" /></a>
 <a href="https://fb.com/amardeep.verma.14855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amardeep.verma.14855" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/amar_x_vr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amar_x_vr/" height="30" width="40" /></a>
