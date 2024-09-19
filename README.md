@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Data Structure And Algorithms
   
 
-- ❓ Ask me about anything related to C and Web Dev.  
+- ❓ Ask me about anything related to C++ and Web Dev.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
