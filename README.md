@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amardeep, a  full-stack  developer 👨‍💻</div>  
+### <div align="center">I'm Amardeep, a  full-stack  developer 👨‍💻</div> 
   
 
 - 🔭 I’m currently working on C# (https://github.com/Amardeep-Verma/Csharp-coding-challenge)  
